@@ -1,0 +1,13 @@
+{
+  "name": "ostrava",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/\">MapTiler Desktop</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "15",
+  "maxzoom": "19",
+  "scale": "1.000000",
+  "bounds": [18.16916807, 49.82055076, 18.17827137, 49.82467460],
+  "profile": "mercator"
+}
